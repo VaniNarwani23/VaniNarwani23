@@ -6,6 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VaniNarwani23" alt="VaniNarwani23" /></a> </p>
 
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhzb2RoN21zdTFhMmRueWJjd3M0Y3phcmo1MGJpZzhxdzViZzc1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FaKV1cVKlVRxC/giphy.gif" alt="Beluga Hey" width="500">
+</div>
+
 
 
 
