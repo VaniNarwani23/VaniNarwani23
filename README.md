@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile%20views&color=0e75b6&style=flat" alt="VaniNarwani23
 " /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![HiCatHiGIF](https://github.com/user-attachments/assets/789138f1-80b6-4037-b74a-c614c3580d13)
-" alt="VaniNarwani23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![HiCatHiGIF](https://github.com/user-attachments/assets/789138f1-80b6-4037-b74a-c614c3580d13)" alt="VaniNarwani23" /></a> </p>
 
 
 <div align="center">
