@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vani-narwani-50a239274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vani-narwani-50a239274/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vaninarwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vaninarwani" height="30" width="40" /></a>
-<a href="https://www.Twitter.com/https://x.com/NarwaniVani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Twitter.svg" alt="https://x.com/NarwaniVani" height="30" width="40" /></a>
+<a href="https://www.twitter.com/https://x.com/NarwaniVani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/NarwaniVani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/vani_narwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vani_narwani/" height="30" width="40" /></a>
 </p>
 
