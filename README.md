@@ -85,4 +85,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VaniNarwani23&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23&" alt="Streak Stats"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23" alt="Streak Stats"/></p>
