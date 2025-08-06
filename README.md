@@ -72,7 +72,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
  <a href="https://gsap.com/" target="_blank" rel="noreferrer">
-  <img src="icons/gsap.svg" alt="GSAP" width="40" height="40"/>
+  <img src="https://icons/gsap.svg" alt="GSAP" width="40" height="40"/>
 </a>
 
 </p>
