@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vani Narwani</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-https://github-profile-trophy.vercel.app/?username=VaniNarwani23https://github.com/ryo-ma/github-profile-trophy
 
+<!-- GitHub Profile Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VaniNarwani23&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1215966e-f2da-4782-9c1f-1c275d37ca5d" alt="Beluga Hey" width="500">
@@ -63,10 +68,9 @@ https://github-profile-trophy.vercel.app/?username=VaniNarwani23https://github.c
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
- <a href="https://gsap.com/" target="_blank" rel="noreferrer">
-  <img src="https://icons/gsap.svg" alt="GSAP" width="40" height="40"/>
-</a>
-
+  <a href="https://gsap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -78,4 +82,5 @@ https://github-profile-trophy.vercel.app/?username=VaniNarwani23https://github.c
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VaniNarwani23&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23" alt="Streak Stats"/></p>
