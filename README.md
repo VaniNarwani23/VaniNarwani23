@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vani Narwani</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaniNarwani23&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VaniNarwani23&theme=onedark" alt="GitHub Trophies" />
+  </a>
 </p>
-
 
 
 
