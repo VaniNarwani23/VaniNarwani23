@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vani Narwani</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=VaniNarwani23)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=VaniNarwani23https://github.com/ryo-ma/github-profile-trophy
 
 
 <div align="center">
