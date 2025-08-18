@@ -99,9 +99,10 @@
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
   </a>
-    <a href="https://gsap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP" width="40" height="40"/>
-  </a>
+  <a href="https://gsap.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/gsap.svg" alt="GSAP" width="40" height="40"/>
+</a>
+
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
   </a>
