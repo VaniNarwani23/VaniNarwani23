@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?VaniNarwani23=ryo-ma&theme=onedark" alt="GitHub Trophies" />
-</a>
-
-</p> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VaniNarwani23&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1215966e-f2da-4782-9c1f-1c275d37ca5d" alt="Beluga Hey" width="500">
 </div>
