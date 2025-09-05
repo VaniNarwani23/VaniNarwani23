@@ -133,6 +133,6 @@
 
 <div align="center">
   <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
-  <p>Made by Parth Sharma</p>
+  <p>Made by Vani Narwani ❤️🌸</p>
 </div>
 
