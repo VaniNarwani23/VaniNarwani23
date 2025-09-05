@@ -125,5 +125,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VaniNarwani23&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23" alt="Stats" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
+---
+
+<div align="center">
+  <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
+  <p>Made by Parth Sharma</p>
+</div>
 
