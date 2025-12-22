@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Vani Narwani</h1>
+<h1 align="center">Hi 👋, I'm Vani Narwani</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <div align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 Working on **TheEcomStore**
+- 🔭 Currently working on **TheEcomStore**
 - 🌱 Learning **React.js & Node.js**
 - 👨‍💻 Projects: https://github.com/VaniNarwani23
 - 📫 Email: **vaninarwani@gmail.com**
@@ -51,16 +51,15 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&theme=dark&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Language Used" height="150" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VaniNarwani23&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&theme=dark&layout=compact" height="150"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VaniNarwani23&theme=dark" height="150"/>
+  </a>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
