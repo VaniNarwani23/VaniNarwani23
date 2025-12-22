@@ -55,7 +55,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaniNarwani23&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
 </div>
 ---
----
+
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -64,6 +64,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=VaniNarwani23&theme=dark" height="150"/>
   </a>
 </div>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
