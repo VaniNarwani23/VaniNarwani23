@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaniNarwani23&theme=onedark" />
+  <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
