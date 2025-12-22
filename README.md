@@ -120,18 +120,13 @@
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
+## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VaniNarwani23&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VaniNarwani23&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23" alt="Stats" /></p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&theme=dark&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Language Used" height="150" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" height="150" />
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 
