@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vani Narwani</h1>
+ <h1 align="center">Hi 👋, I'm Vani Narwani</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <div align="center">
@@ -53,8 +53,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&theme=dark&layout=compact" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23&theme=dark" height="150"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VaniNarwani23" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
