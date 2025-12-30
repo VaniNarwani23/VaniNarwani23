@@ -37,34 +37,18 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaniNarwani23&theme=dark" />
 </div>
 
----
-<h2 align="center"> My Contributions </h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaniNarwani23&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
-</div>
-
-
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&theme=dark&layout=compact" height="150"/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VaniNarwani23&theme=dark" height="150"/>
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VaniNarwani23&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaniNarwani23&theme=dark" />
 </div>
 ---
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
