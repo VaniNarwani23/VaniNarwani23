@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vani Narwani</h1>
+<h1 align="center">
+  Hi 👋 I’m <span style="color:#ff69b4;">Vani Narwani</span>
+</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <div align="center">
