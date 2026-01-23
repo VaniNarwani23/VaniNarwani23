@@ -1,9 +1,10 @@
 <h1 align="center">
   Hi 👋 I’m Vani Narwani 
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=F4A6C1&center=true&vCenter=true&width=400&lines=Full+Stack+Developer" />
 </p>
-</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
