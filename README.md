@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋 I’m Vani Narwani — 
+  Hi 👋 I’m Vani Narwani 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=F4A6C1&center=true&vCenter=true&width=400&lines=Full+Stack+Developer" />
 </p>
