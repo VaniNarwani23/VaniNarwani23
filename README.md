@@ -1,8 +1,7 @@
 <h1 align="center">
-  Hi 👋 I’m Vani Narwani 
-  <span style="color:#f4a6c1;">Full Stack Developer</span>
-  
-</h1>
+  Hi 👋 I’m Vani Narwani — 
+  <font color="#f4a6c1">Full Stack Developer</font>
+</h1>>
  
  
 
