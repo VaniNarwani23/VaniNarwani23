@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hi 👋 I’m Vani Narwani
+  Hi 👋 I’m Vani Narwani 
+  <span style="color:#f4a6c1;">Full Stack Developer</span>
+  
 </h1>
-<div align="center" style="background: #f0f0f0; padding: 20px; border-radius: 15px; display: inline-block;">
-  <h2 style="color: #ff69b4; font-family: 'Comic Sans MS', sans-serif;">
-    “A Meow Who Loves Code 🐾💻”
-  </h2>
-</div>
+ 
+ 
+
 
 
 <div align="center">
