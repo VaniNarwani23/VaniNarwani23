@@ -1,7 +1,12 @@
 <h1 align="center">
   Hi 👋 I’m Vani Narwani
 </h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<div align="center" style="background: #f0f0f0; padding: 20px; border-radius: 15px; display: inline-block;">
+  <h2 style="color: #ff69b4; font-family: 'Comic Sans MS', sans-serif;">
+    “A Meow Who Loves Code 🐾💻”
+  </h2>
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
