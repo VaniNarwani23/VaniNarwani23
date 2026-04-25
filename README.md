@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile+Views&color=C084FC&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile+Views&color=C084FC&style=for-the-badge&abbreviated=true"/>
   <img src="https://img.shields.io/github/followers/VaniNarwani23?label=Followers&style=for-the-badge&color=F9A8D4&labelColor=1a1a2e&cacheSeconds=60"/>
 </p>
 
