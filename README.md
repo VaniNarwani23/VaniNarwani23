@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Passionate+Developer+🩷;Building+Cool+Things+on+the+Web+🌐;Always+Learning+Something+New+📚;A+Girl+Who+Loves+To+Code💅" />
 </p>
 
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile+Views&color=C084FC&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/VaniNarwani23?label=Followers&style=for-the-badge&color=F9A8D4&labelColor=1a1a2e" />
