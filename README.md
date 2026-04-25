@@ -18,8 +18,8 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile+Views&color=C084FC&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/VaniNarwani23?label=Followers&style=for-the-badge&color=F9A8D4&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile+Views&color=C084FC&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/VaniNarwani23?label=Followers&style=for-the-badge&color=F9A8D4&labelColor=1a1a2e"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
