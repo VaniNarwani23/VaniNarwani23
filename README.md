@@ -1,68 +1,124 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=C084FC&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Vani+Narwani!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d125fb27-3bff-4c50-bc67-0a7e3560ab18" width="38%" style="border-radius:20px;" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=36&duration=1&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vani+Narwani+✨" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=1&pause=1000&color=F9A8D4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%E2%80%A2+Creative+Coder+%E2%80%A2+Tech+Explorer+💻" />
+</h3>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Passionate+Developer+🩷;Building+Cool+Things+on+the+Web+🌐;Always+Learning+Something+New+📚;A+Girl+Who+Loves+To+Code💅" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile+Views&color=C084FC&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/VaniNarwani23?label=Followers&style=for-the-badge&color=F9A8D4&labelColor=1a1a2e" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🌸 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vani-narwani-50a239274/">
+    <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
-
-
-</br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaniNarwani23&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
-</div>
-</br>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1215966e-f2da-4782-9c1f-1c275d37ca5d" width="500"/>
-</div>
-
----
-</br>
-
-# 💫 About Me:
-🔭 Currently working on TheEcomStore<br>
-🌱 Learning React.js & Node.js<br>
-👨‍💻 Projects: https://github.com/VaniNarwani23<br>
-📫 Email: vaninarwani@gmail.com<br>
-
-
-</br> 
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-narwani-50a239274/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/VaniSlaysCode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaninarwani@gmail.com) 
-</br>
-
----
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
----
-
-### ✍️ Random Dev Quote  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
-### My Github Stats🤍
-<!-- GitHub Stats Section -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-
-  <!-- GitHub Profile Summary Card -->
-  <a href="https://github.com/VaniNarwani23" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaniNarwani23&theme=radical" alt="Vani's GitHub Contribution" />
+  &nbsp;
+  <a href="https://x.com/VaniSlaysCode">
+    <img src="https://img.shields.io/badge/X_(Twitter)-F9A8D4?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-
-  <!-- GitHub Top Languages Card -->
-  <a href="https://github.com/VaniNarwani23" target="_blank">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Syket's Top Languages" height="192px" />
+  &nbsp;
+  <a href="mailto:vaninarwani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 💻 Tech Stack
 
-### ❤️ Created with passion by **Vani Narwani**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,python&theme=dark&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,vercel,netlify,postman&theme=dark&perline=6" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐰 A Little About Me
+
+```js
+const vani = {
+  pronouns         : "she/her",
+  role             : "Full Stack Developer",
+  building         : "Cute Stuff + Helpful SAAS Applications",
+  focus            : ["Frontend", "Backend", "UI/UX"],
+  currentlyLearning: ["DSA", "System Design"],
+  techStack        : ["MERN"],
+  vibe             : "Cool Vibe x Cute Designs × strong logic 💅",
+  mindset          : "learn → build → improve → repeat",
+  goal             : "become a top-tier engineer :)"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&layout=compact&langs_count=8&bg_color=0D0D1A&border_color=C084FC&title_color=F9A8D4&text_color=E2D9F3&custom_title=Most%20Used%20Languages&border_radius=10"
+    height="175px"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VaniNarwani23&background=0D0D1A&border=C084FC&ring=C084FC&fire=F9A8D4&currStreakNum=F9A8D4&sideNums=E2D9F3&currStreakLabel=F9A8D4&sideLabels=C084FC&dates=9D7EC4&stroke=C084FC&border_radius=10"
+    height="175px"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VaniNarwani23&show_icons=true&count_private=true&bg_color=0D0D1A&border_color=C084FC&title_color=F9A8D4&text_color=E2D9F3&icon_color=C084FC&ring_color=C084FC&border_radius=10"
+    height="175px"
+  />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaniNarwani23&bg_color=0D0D1A&color=C084FC&line=F9A8D4&point=E2D9F3&area=true&area_color=C084FC&border_color=C084FC&hide_border=false&radius=10" width="95%"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ✨ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180"/>
+</p>
+
+<p align="center">
+  <i>"Building my own world through code 🌸"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC,F9A8D4&height=100&section=footer&text=Made+with+Love🤍+by+Vani+Narwani&fontColor=ffffff&fontSize=18&fontAlignY=70&animation=twinkling"/>
+</p>
