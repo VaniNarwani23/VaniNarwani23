@@ -120,5 +120,5 @@ const vani = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC,F9A8D4&height=100&section=footer&text=Made+with+Love🤍+by+Vani+Narwani&fontColor=ffffff&fontSize=18&fontAlignY=70&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC,F9A8D4&height=100&section=footer&text=Made+with+Love🤍&fontColor=ffffff&fontSize=18&fontAlignY=70&animation=twinkling"/>
 </p>
