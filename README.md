@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=550&lines=Passionate+Developer+%F0%9F%A9%B7;Building+Cool+Things+on+the+Web+%F0%9F%8C%90;Always+Learning+Something+New+%F0%9F%93%9A;A+Girl+Who+Loves+To+Code+%F0%9F%92%85" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=550&lines=Passionate+Developer+%F0%9F%A9%B7;Building+Cool+Things+on+the+Web+%F0%9F%8C%90+;A+Girl+Who+Loves+To+Code+%F0%9F%92%85" />
 </p>
 
 ---
