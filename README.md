@@ -60,7 +60,7 @@
 
 ```js
 const vani = {
-  pronouns         : "she/her",
+  pronouns         : "she/her <3",
   role             : "Full Stack Developer",
   building         : "Cute Stuff + Helpful SAAS Applications",
   focus            : ["Frontend", "Backend", "UI/UX"],
@@ -76,7 +76,6 @@ const vani = {
 
 ## 📊 GitHub Stats
 
-<!-- Languages + Streak: side by side on desktop, stack on mobile (% widths handle this) -->
 <p align="center">
   <img
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VaniNarwani23&layout=compact&langs_count=8&bg_color=0D0D1A&border_color=C084FC&title_color=F9A8D4&text_color=E2D9F3&custom_title=Most%20Used%20Languages&border_radius=10"
@@ -89,7 +88,7 @@ const vani = {
   />
 </p>
 
-<!-- General stats card: comfortable 60% width, centred -->
+
 <p align="center">
   <img
     src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VaniNarwani23&show_icons=true&count_private=true&bg_color=0D0D1A&border_color=C084FC&title_color=F9A8D4&text_color=E2D9F3&icon_color=C084FC&ring_color=C084FC&border_radius=10"
@@ -98,7 +97,7 @@ const vani = {
   />
 </p>
 
-<!-- Activity graph: always full width -->
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=VaniNarwani23&bg_color=0D0D1A&color=C084FC&line=F9A8D4&point=E2D9F3&area=true&area_color=C084FC&border_color=C084FC&hide_border=false&radius=10"
