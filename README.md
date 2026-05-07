@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d125fb27-3bff-4c50-bc67-0a7e3560ab18" width="45%" style="border-radius:20px;" />
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=32&duration=1&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Vani+Narwani+%E2%9C%A8" />
